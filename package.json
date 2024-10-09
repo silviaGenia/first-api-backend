@@ -1,0 +1,12 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["API", "REST", "TypeScript", "JSON"],
+  "author": "genia",
+  "license": "ISC",
+  "description": ""
+}
